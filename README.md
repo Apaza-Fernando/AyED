@@ -1,5 +1,5 @@
 # Algoritmos y estructura de datos
-###Repositorio para trabajos practicos
+### Repositorio para trabajos practicos
 
 Nombre:Fernando
 
