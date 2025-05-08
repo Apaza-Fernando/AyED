@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main() 
 {
-	cout<<"hola Fernando Apaza"<<endl;
+   cout<<"hola Fernando Apaza"<<endl;
 
-	return 0;
+   return 0;
+
 }
-
